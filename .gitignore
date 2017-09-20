@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# c#
+*.pdb
+*.suo
+*.user
+bin
+obj
+.svn
+log
+*.pubxml
+.vs
+/source/.vs
